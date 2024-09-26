@@ -9,6 +9,7 @@ function App() {
   return (
     <>
      <h1>Vite app</h1>
+     <p>Hello, there</p>
     </>
   )
 }
