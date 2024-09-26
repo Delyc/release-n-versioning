@@ -1,6 +1,6 @@
 {
     "branches": ["main"],
-    "repositoryUrl": "https://github.com/Delyc/release-versioning",
+    "repositoryUrl": "https://github.com/Delyc/release-n-versioning",
     "plugins": [
       [
         "@semantic-release/commit-analyzer",
